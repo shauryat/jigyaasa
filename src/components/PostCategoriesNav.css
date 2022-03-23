@@ -60,16 +60,16 @@
   background-color: var(--lightGrey);
   color: var(--primary);
 }
-/* iPhone X, 11 / 11pro etc. */
-@media (min-width:375px) and (max-width: 380px) {
+/* iPhone X, 11 / 11pro etc.  turn out to be my phone too*/
+@media (min-width:370px) and (max-width: 384px) {
   .NavLinky {
     animation: Nav--Link 0.3s ease-out;
     animation-fill-mode: both;
   }
 
    .NavLinky {
-    font-size: 1.5rem;
-    margin-top: 1rem;
+    font-size: 1.7rem;
+    margin-top: 14px;
     border-radius: 26px;
     margin-left: -0.2rem;
   }

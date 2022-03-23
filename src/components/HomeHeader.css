@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 .HomeHeader {
-    background-color: var(--darkGrey);
-    color: white; 
-    padding: 15rem 0;
+    background-color: white;
+    color: var(--primary); 
+    padding: 5rem 0;
   }
   
   .HomeHeader .BackgroundImage {
-    opacity: 0.8;
+    opacity: 0;
   }
   
   .HomeHeader-large {
@@ -17,7 +17,7 @@
   .HomeHeader--Title {
     font-size: 9rem;
     margin-bottom: 0;
-    color: white;
+    color: var(--primary);
     font-family: 'Pacifico', cursive;
     font-weight: 300;
   }
@@ -25,6 +25,7 @@
   .HomeHeader--Subtitle {
     font-weight: 500;
     font-size: 2.4rem;
+    margin-top: 6.2px;
   }
   
   .HomeHeader .container {
@@ -33,7 +34,7 @@
   
   @media (max-width: 600px) {
     .PageHeader {
-      padding: 7rem 0;
+      padding: 0rem 0;
     }
     .PageHeader-large {
       padding: 12.5rem 0;

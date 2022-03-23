@@ -33,9 +33,9 @@ const PostCard = ({
       </div>
       {/* // TODO imporve The css here */}
 
-      <div className='dist'>XX Kilometers away</div>
+      <div className="dist">XX Kilometers away</div>
 
-      <div className='iconz'>
+      <div className="iconz">
         <FiNavigation color="#39AEA9" size="30px" className="dir" />
         <FiMic color="#39AEA9" size="30px" />
       </div>
