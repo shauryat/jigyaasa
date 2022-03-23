@@ -1,6 +1,11 @@
 ---
 template: BlogIndex
 title: Office
-subtitle: Offering a take on the literary world centered around book reader enthusiasts, EconZest’s poignant think pieces and spotlight on the unexpected influences of books provide a unique and meaningful perspective on the written word that will particularly speak to writing enthusiasts who grew up alongside the internet.(COMING SOON)
-featuredImage: https://t4.ftcdn.net/jpg/01/06/32/17/240_F_106321762_eAVoxgBSf2powxTuBROf6YzgYJOLgONB.jpg
+subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+  esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+  non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+featuredImage: https://ucarecdn.com/570a464c-1a7b-4a76-a1ac-8a05789311a5/
 ---
