@@ -1,10 +1,10 @@
 ---
 template: SinglePost
-title: The Journey To Becoming
+title: The Journey Towards New Tomorrow
 author: ""
 status: Published
-date: 2021-04-14
-featuredImage: https://ucarecdn.com/7ef1de77-ff0e-47cf-b17c-8bd6cb49f3c0/-/crop/1000x701/0,0/-/preview/
+date: 2022-03-21
+featuredImage: https://ucarecdn.com/057c5e16-e3aa-456d-83a1-bb048e42a683/-/crop/602x402/18,0/-/preview/-/enhance/100/
 excerpt: This is the story of a man who was bullied in school and now is one of
   the most talked about men in the world of science and technology, often said
   to be a real-life Tony Stark wanting to leave Earth and colonize Mars
