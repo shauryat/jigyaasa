@@ -1,0 +1,108 @@
+.PostCard {
+  text-decoration: none;
+  background: white;
+  color: inherit;
+  border: 2px solid var(--lightGrey);
+  border-radius: 20px;
+  /* box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1); */
+  overflow: hidden;
+}
+
+.PostCard:hover,
+.PostCard:focus {
+  transform: translateY(-1px);
+  /* box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15); */
+}
+
+.PostCard--Image {
+  margin: 0 0 2rem 0;
+  width: 100%;
+  height: 200px;
+}
+
+.PostCard--Title {
+  margin: 0;
+  font-size: 1.8rem;
+  line-height: 1.8rem;
+  display: flex;
+}
+
+.PostCard--Content {
+  padding: 0 2.5rem 2.5rem;
+  margin-bottom: -10px;
+}
+
+.PostCard--Category--SOTD {
+  font-size: 1.3rem;
+  min-height: 1.2em;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0.7em 0;
+  color: var(--danger);
+  margin-left: auto;
+}
+
+.dir {
+  margin-right: 12px;
+}
+
+.iconz {
+  margin-bottom: -5px;
+  margin-top: 5px;
+}
+
+.dist {
+  font-size: 14px;
+  color: var(--primary);
+}
+
+/* ---------new css responsive ---------- */
+
+/* iPhone X, 11 / 11pro etc. */
+@media (min-width: 375px) and (max-width: 380px) {
+  .PostCard--Category--SOTD {
+    margin-left: 5.2rem;
+  }
+}
+
+/* iPhone5 & iPhone SE */
+
+@media (min-width: 300px) and (max-width: 324px) {
+  .PostCard--Category--SOTD {
+    margin-left: 4rem;
+    font-size: 1rem;
+  }
+
+  .PostCard--Title {
+    font-size: 1.5rem;
+  }
+}
+
+/* Flagship */
+@media (min-width: 381px) and (max-width: 500px) {
+  .PostCard--Category--SOTD {
+    margin-left: 8.2rem;
+  }
+}
+
+/* 16:9 Oldies */
+@media (min-width: 350px) and (max-width: 374px) {
+  .PostCard--Category--SOTD {
+    margin-left: 10px;
+  }
+}
+
+.PostCard--Category {
+  font-size: 1.3rem;
+  min-height: 1.2em;
+  line-height: 1;
+  margin: 0.5em 0;
+  color: hsla(200, 0%, 0%, 0.8);
+  font-weight: 600;
+}
+
+.PostCard--Author {
+  font-size: 1.4rem;
+  margin-top: 0.2rem;
+  color: hsla(200, 0%, 0%, 0.7);
+}
