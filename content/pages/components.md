@@ -24,7 +24,9 @@ section2: >-
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/edabbcb2-9b4c-4e4f-bc48-a837ec9c58f3/
 videoTitle: Also background videos, with poster image & title overlay.
-accordion: []
+accordion:
+  - title: I also don't know why
+    description: hmmmmmm
 gallery: []
 meta:
   description: This is a meta description.
