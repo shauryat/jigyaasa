@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Mitran da Swad
-author: Sahil
+author: ""
 status: Published
 date: 2022-03-24
 featuredImage: https://ucarecdn.com/96860412-5646-4e8b-9be0-f7ef45f49d63/
@@ -10,7 +10,7 @@ excerpt: It is a long established fact that a reader will be distracted by the
   Lorem Ipsum is that it has a more-or-less normal distribution of letters, as
   opposed to using 'Content here, content here',
 categories:
-  - category: Restaurant
+  - category: Restaurants
 ---
 
 
