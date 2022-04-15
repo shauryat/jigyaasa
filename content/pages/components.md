@@ -1,21 +1,11 @@
 ---
 template: ComponentsPage
 slug: about
-title: About Us
+title: Map View
 featuredImage: https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et
-section1: >-
-  ## Who are we ?
-
-
-  > The Secret of getting ahead is getting started - Mark Twain
-
-
-  Welcome to **Jigyaasa**
-
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+section1: "![](https://ucarecdn.com/45b0b445-74c3-4678-98c4-a11e0baf826d/)"
 section2: >-
   ## You can use videos, images and text.
 
