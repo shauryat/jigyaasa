@@ -1,12 +1,12 @@
 ---
 template: SinglePost
-title: Department of Delhi Archives
+title: Square One Mall
 status: Published
 date: 2022-03-23
 featuredImage: https://ucarecdn.com/3e95f269-decf-4b75-905d-80ef907a047d/
-excerpt: Department of Delhi Archives
+excerpt: "lorme i slove "
 categories:
-  - category: Office
+  - category: Malls
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis blandit turpis cursus in hac habitasse platea. Elementum facilisis leo vel fringilla est ullamcorper. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Scelerisque purus semper eget duis at. Purus gravida quis blandit turpis. Quam nulla porttitor massa id neque. Ac auctor augue mauris augue neque gravida in fermentum et. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Ut lectus arcu bibendum at varius vel pharetra. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Ornare suspendisse sed nisi lacus sed viverra. Erat imperdiet sed euismod nisi porta. Lectus arcu bibendum at varius vel pharetra vel turpis nunc. Senectus et netus et malesuada fames. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus.
 
