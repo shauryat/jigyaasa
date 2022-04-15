@@ -60,9 +60,7 @@ export const SinglePostTemplate = ({
             </h1>
           )}
 
-          {author && ( <div className="SinglePost--Author">
-            @{author}
-            </div>)}
+          {author && <div className="SinglePost--Author">@{author}</div>}
 
           <div className="SinglePost--InnerContent">
             <Content source={body} />
@@ -74,7 +72,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Previous Post
+                Previous
               </Link>
             )}
             {nextPostURL && (
@@ -82,7 +80,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                Next
               </Link>
             )}
           </div>

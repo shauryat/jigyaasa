@@ -56,6 +56,11 @@
   color: var(--primary);
 }
 
+.dist_2 {
+  font-size: 14px;
+  color: #1778F2;
+}
+
 /* ---------new css responsive ---------- */
 
 /* iPhone X, 11 / 11pro etc. */
