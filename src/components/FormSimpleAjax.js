@@ -135,6 +135,7 @@ class Form extends React.Component {
                 Type of Enquiry
               </option>
               <option>Registration for Verification</option>
+              <option>Complaint against a Place</option>
               <option>Found a bug</option>
               <option>Want to say hello</option>
             </select>

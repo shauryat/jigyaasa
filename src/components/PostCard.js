@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import Image from './Image'
 import { FiNavigation } from '@react-icons/all-files/fi/FiNavigation'
 import { FiMic } from '@react-icons/all-files/fi/FiMic'
-
+import { FiPhoneCall } from '@react-icons/all-files/fi/FiPhoneCall'
 import './PostCard.css'
 
 const PostCard = ({
@@ -34,10 +34,12 @@ const PostCard = ({
       {/* // TODO imporve The css here */}
 
       <div className="dist">XX Kilometers away</div>
-      
+      <div className="rate">Rating - XX</div>
+
       <div className="iconz">
         <FiNavigation color="#39AEA9" size="30px" className="dir" />
-        <FiMic color="#39AEA9" size="30px" />
+        <FiMic color="#39AEA9" size="30px" className="dir" />
+        <FiPhoneCall color="#39AEA9" size="30px" />
       </div>
     </div>
   </Link>
